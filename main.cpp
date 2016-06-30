@@ -1,7 +1,3 @@
-/*Project 1A
- EECE2560
- Istiaque Shanjib*/
-
 #include "mastermind.h"         //include mastermind header
 #include "response.h"
 #include "code.h"
